@@ -1,9 +1,4 @@
 
-**Hi 👋, I’m Riya.**
-
-Computer Science & Mathematics major.
-
-I build, I learn, I share — creating projects that make a difference, one commit at a time.
 
 # 💫 About Me:
 Hi 👋, I’m Riya.<br>Computer Science & Mathematics major.<br>I build, I learn, I share — creating projects that make a difference, one commit at a time.<br><br>
